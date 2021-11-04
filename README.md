@@ -3,9 +3,9 @@
 
 $ pkg install git python -y
 
-$ git clone https://github.com/SaefudinXd/FB-DRAG
+$ git clone https://github.com/jamalnggau1/keronconggn
 
-$ cd FB-DRAG
+$ cd keroncongfb
 
 $ pip install -r requirements.txt
 
