@@ -3,7 +3,7 @@
 
 $ pkg install git python -y
 
-$ git clone https://github.com/jamalnggau1/keronconggn
+$ git clone https://github.com/jamalnggau1/keroncongfb
 
 $ cd keroncongfb
 
